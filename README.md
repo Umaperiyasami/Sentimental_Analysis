@@ -21,3 +21,5 @@ The Sentiment Analysis Dataset can be sourced from various sources, including so
 **4. Sentiment Analysis:** We'll use a sentiment analysis model, such as VADER (Valence Aware Dictionary and sEntiment Reasoner), to analyze the sentiment of the text data.
 
 **5. Interpretation:** Findings from EDA and sentiment analysis will be interpreted to draw conclusions and insights about the sentiment patterns in the dataset, including identifying common sentiment themes and sentiment polarity.
+
+![sentiment](https://cdn-icons-png.flaticon.com/512/9850/9850865.png)
